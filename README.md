@@ -1,7 +1,7 @@
 # divergent.manifesto
 
 ## O mal prospera quando os homens de bem nada fazem
-__Manifesto - A triste história de Avillan__
+_Manifesto - A triste história de Avillan_
 
 O ano é 2030, e Avillan já não é mais um país livre. A sociedade está totalmente controlada por uma ditadura totalitária que transformou profundamente a vida de seus cidadãos. Durante décadas, uma agenda meticulosa gradualmente minou as liberdades individuais por meio de uma ideologia coletivista. Com a democracia já fragilizada, o Poder Judiciário, secretamente, forjou uma aliança com o Executivo para colocar no poder um populista corrupto que estava preso. Esse fantoche permitiu o acúmulo de poder por uma antiga e perigosa aristocracia.
 
