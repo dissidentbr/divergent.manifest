@@ -24,5 +24,4 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
   </tr>
 </table>
 
-
 </details>
