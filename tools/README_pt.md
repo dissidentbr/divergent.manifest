@@ -17,12 +17,11 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
 
   <details>
     <summary>Navegação Anonima com Tor</summary>
-    <p>O Tor é uma ferramenta que ajuda a proteger sua privacidade online. Quando você navega na internet, seu endereço IP (um número que identifica seu computador na rede) pode ser visto por sites ou outras pessoas, o que revela sua localização e atividades. O Tor funciona como uma espécie de “labirinto digital”, onde seus dados passam por vários computadores ao redor do mundo, tornando muito difícil para alguém saber de onde você realmente está acessando. No navegador Brave, você pode ativar o Tor nas configurações para usar essa proteção extra. Isso é especialmente útil para quem quer navegar de forma mais anônima e segura, evitando rastreamentos.</p>
-
-    <details>
-        <summary>Como Uso Isso?</summary>
-        <p></p>
-    </details>
+    <p>
+    O Tor é uma ferramenta que ajuda a proteger sua privacidade online. Quando você navega na internet, seu endereço IP (um número que identifica seu computador na rede) pode ser visto por sites ou outras pessoas, o que revela sua localização e atividades. O Tor funciona como uma espécie de “labirinto digital”, onde seus dados passam por vários computadores ao redor do mundo, tornando muito difícil para alguém saber de onde você realmente está acessando. No navegador Brave, você pode ativar o Tor nas configurações para usar essa proteção extra. Isso é especialmente útil para quem quer navegar de forma mais anônima e segura, evitando rastreamentos.
+    
+    <b>Como Uso Isso?</b>
+    </p>
 
   </details>
 
@@ -31,5 +30,4 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
     <p>Mais detalhes sobre o subtítulo 2.</p>
   </details>
 
-Brave browser has a built-in integration with Tor for enhanced privacy. You can enable it in the settings. This allows you to browse the web while proxying your IP address through multiple, intermediate addresses, masking your IP address for anonymity.
 </details>
