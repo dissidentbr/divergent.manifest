@@ -8,7 +8,7 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
 
 <details>
   <summary>saiba mais...</summary>
-  <p>Este é o conteúdo que aparece quando o item é expandido.</p>
+  <p/>
 
   <details>
     <summary>Screenshots</summary>
