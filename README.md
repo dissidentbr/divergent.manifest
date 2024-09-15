@@ -12,6 +12,7 @@ _“O preço da liberdade é a eterna vigilância” - Thomas Jefferson_
 
 ## O mal prospera quando os homens de bem nada fazem
 _Manifesto - A triste fábula de Avillan_
+![Avillan Jude](avillan_jude.png)
 
 O ano é 2030, e Avillan já não é mais um país livre. A sociedade está completamente controlada por uma ditadura totalitária, que transformou profundamente a vida de seus cidadãos. Durante décadas, uma agenda meticulosa gradualmente minou as liberdades individuais por meio de uma ideologia coletivista. O divisionismo do “nós contra eles” polarizou a sociedade, fragilizando a democracia e destruindo antigos valores nacionais. O Poder Judiciário, secretamente, forjou uma aliança com o Executivo para colocar no poder um populista corrupto que estava preso. Por meio desse fantoche, uma antiga e perigosa aristocracia acumulou muito mais poder do que deveria ser possível.
 
