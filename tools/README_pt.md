@@ -54,4 +54,48 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
   </a>
 </div>
 
-<script src="carrossel.js"></script>
+<script>
+class Carrossel {
+  constructor(carrosselElement) {
+    this.carrosselElement = carrosselElement;
+    this.items = this.carrosselElement.querySelectorAll('.carrossel-item');
+    this.totalItems = this.items.length;
+    this.currentIndex = 0;
+    this.prevButton = this.carrosselElement.querySelector('.carrossel-control-prev');
+    this.nextButton = this.carrosselElement.querySelector('.carrossel-control-next');
+
+    this.prevButton.addEventListener('click', () => this.showPrev());
+    this.nextButton.addEventListener('click', () => this.showNext());
+
+    this.update();
+  }
+
+  showPrev() {
+    this.currentIndex = (this.currentIndex === 0) ? this.totalItems - 1 : this.currentIndex - 1;
+    this.update();
+  }
+
+  showNext() {
+    this.currentIndex = (this.currentIndex === this.totalItems - 1) ? 0 : this.currentIndex + 1;
+    this.update();
+  }
+
+  update() {
+    this.items.forEach((item, index) => {
+      if (index === this.currentIndex) {
+        item.classList.add('active');
+      } else {
+        item.classList.remove('active');
+      }
+    });
+  }
+}
+
+// Inicializar todos os carrosséis na página
+document.addEventListener('DOMContentLoaded', () => {
+  const carrosseis = document.querySelectorAll('.carrossel');
+  carrosseis.forEach(carrossel => {
+    new Carrossel(carrossel);
+  });
+});
+</script>
