@@ -2,7 +2,7 @@
 ![Avillan Jude](../img/avillan_jude.png)
 
 ## Evil prospers when good men do nothing
-_Manifesto - The sad fable of Avillan_
+_Manifest - The sad fable of Avillan_
 
 The year is 2030, and Avillan is no longer a free country. Society is completely controlled by a totalitarian dictatorship that has profoundly transformed the lives of its citizens. For decades, a meticulous agenda gradually eroded individual freedoms through a collectivist ideology. The “us versus them” division polarized society, weakening democracy and destroying old national values. The Judiciary secretly forged an alliance with the Executive to put a corrupt populist, who was imprisoned, in power. Through this puppet, an old and dangerous aristocracy accumulated far more power than should have been possible.
 
