@@ -1,5 +1,14 @@
 # divergent.manifesto
 
+## Sobre o que fala este manifesto?
+Se você sente que a liberdade do seu país está em risco, ou mesmo já se tornando uma ditadura, talvez valha a pena conhecer a fábula de Avillan. Avillan pode nos ajudar a entender como as liberdades individuais são perdidas e como regimes totalitários são instaurados.
+
+O __primeiro objetivo__ deste trabalho é alertar para o risco das ideologias coletivistas e totalitárias - razão pela qual o manifesto foi escrito.
+
+O __segundo objetivo__ é fornecer ferramentas tecnológicas para garantir a liberdade de expressão. Se você vive em um lugar onde a liberdade de expressão está ameaçada, essas ferramentas podem ajudar a resistir e preservar a liberdade. Mas, se você já vive em uma ditadura totalitária, essas ferramentas são uma questão de sobrevivência.
+
+_“O preço da liberdade é a eterna vigilância” - Thomas Jefferson_
+
 ## O mal prospera quando os homens de bem nada fazem
 _Manifesto - A triste história de Avillan_
 
