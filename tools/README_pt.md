@@ -13,7 +13,9 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
 <table>
   <tr>
     <td>
-      <img src="../img/brave_tor.gif" alt="Descrição da imagem" width="347px" border="0">
+      <a href="../img/brave_tor.mp4" target="new">
+        <img src="../img/brave_tor.gif" width="347px" border="0">
+      </a>
     </td>
     <td>
     O Tor é uma ferramenta que ajuda a proteger sua privacidade online. Quando você navega na internet, seu endereço IP (um número que identifica seu computador na rede) pode ser visto por sites ou outras pessoas, o que revela sua localização e atividades. O Tor funciona como uma espécie de “labirinto digital”, onde seus dados passam por vários computadores ao redor do mundo, tornando muito difícil para alguém saber de onde você realmente está acessando. No navegador Brave, você pode ativar o Tor nas configurações para usar essa proteção extra. Isso é especialmente útil para quem quer navegar de forma mais anônima e segura, evitando rastreamentos. 
