@@ -13,7 +13,7 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
 <table>
   <tr>
     <td>
-      <a href="../img/brave_tor.mp4" target="new">
+      <a href="https://raw.githubusercontent.com/dissidentbr/divergent.manifest/main/img/brave_tor.mp4" target="new">
         <img src="../img/brave_tor.gif" width="347px" border="0">
       </a>
     </td>
