@@ -17,7 +17,9 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
   </details>
 
   <details style="margin-left: 20px;">
-    <summary>Navegação anônima com Tor</summary>
+    <summary>
+#### Navegação anônima com Tor
+    </summary>
     <p>
       O Tor é uma ferramenta que ajuda a proteger sua privacidade online. Quando você navega na internet, seu endereço IP (um número que identifica seu computador na rede) pode ser visto por sites ou outras pessoas, o que revela sua localização e atividades. O Tor funciona como uma espécie de “labirinto digital”, onde seus dados passam por vários computadores ao redor do mundo, tornando muito difícil para alguém saber de onde você realmente está acessando. No navegador Brave, você pode ativar o Tor nas configurações para usar essa proteção extra. Isso é especialmente útil para quem quer navegar de forma mais anônima e segura, evitando rastreamentos.
       
@@ -25,77 +27,4 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
     </p>
   </details>
 
-  <details style="margin-left: 20px;">
-    <summary>VPN integrada</summary>
-    <p>Mais detalhes sobre o subtítulo 2.</p>
-  </details>
-
 </details>
-
-## Carrossel de Imagens do Brave
-
-<div class="carrossel" id="brave-carrossel">
-  <div class="carrossel-inner">
-    <div class="carrossel-item active">
-      <img src="https://brave.com/static-assets/images/brave-cta/brave-hero.png" alt="Brave Hero">
-    </div>
-    <div class="carrossel-item">
-      <img src="https://brave.com/static-assets/images/brave-cta/brave-features.png" alt="Brave Features">
-    </div>
-    <div class="carrossel-item">
-      <img src="https://brave.com/static-assets/images/brave-cta/brave-private.png" alt="Brave Private">
-    </div>
-  </div>
-  <a class="carrossel-control-prev" role="button">
-    <span class="carrossel-control-prev-icon" aria-hidden="true">&lt;</span>
-  </a>
-  <a class="carrossel-control-next" role="button">
-    <span class="carrossel-control-next-icon" aria-hidden="true">&gt;</span>
-  </a>
-</div>
-
-<script>
-class Carrossel {
-  constructor(carrosselElement) {
-    this.carrosselElement = carrosselElement;
-    this.items = this.carrosselElement.querySelectorAll('.carrossel-item');
-    this.totalItems = this.items.length;
-    this.currentIndex = 0;
-    this.prevButton = this.carrosselElement.querySelector('.carrossel-control-prev');
-    this.nextButton = this.carrosselElement.querySelector('.carrossel-control-next');
-
-    this.prevButton.addEventListener('click', () => this.showPrev());
-    this.nextButton.addEventListener('click', () => this.showNext());
-
-    this.update();
-  }
-
-  showPrev() {
-    this.currentIndex = (this.currentIndex === 0) ? this.totalItems - 1 : this.currentIndex - 1;
-    this.update();
-  }
-
-  showNext() {
-    this.currentIndex = (this.currentIndex === this.totalItems - 1) ? 0 : this.currentIndex + 1;
-    this.update();
-  }
-
-  update() {
-    this.items.forEach((item, index) => {
-      if (index === this.currentIndex) {
-        item.classList.add('active');
-      } else {
-        item.classList.remove('active');
-      }
-    });
-  }
-}
-
-// Inicializar todos os carrosséis na página
-document.addEventListener('DOMContentLoaded', () => {
-  const carrosseis = document.querySelectorAll('.carrossel');
-  carrosseis.forEach(carrossel => {
-    new Carrossel(carrossel);
-  });
-});
-</script>
