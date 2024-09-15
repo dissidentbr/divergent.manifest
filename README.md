@@ -1,6 +1,6 @@
 # divergent.manifest
-[Português](README.md) * [English](README_en.md) * [Español](README_es.md)
 ![Divergent.Manifest](divergent.png)
+##[Português](README.md) * [English](README_en.md) * [Español](README_es.md)
 
 ## Sobre o que fala este manifesto?
 Se você sente que a liberdade do seu país está em risco, ou mesmo já se tornando uma ditadura, talvez valha a pena conhecer a fábula de Avillan. Avillan pode nos ajudar a entender como as liberdades individuais são perdidas e como regimes totalitários são instaurados.
