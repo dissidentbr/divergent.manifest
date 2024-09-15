@@ -31,3 +31,27 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
   </details>
 
 </details>
+
+## Carrossel de Imagens do Brave
+
+<div class="carrossel" id="brave-carrossel">
+  <div class="carrossel-inner">
+    <div class="carrossel-item active">
+      <img src="https://brave.com/static-assets/images/brave-cta/brave-hero.png" alt="Brave Hero">
+    </div>
+    <div class="carrossel-item">
+      <img src="https://brave.com/static-assets/images/brave-cta/brave-features.png" alt="Brave Features">
+    </div>
+    <div class="carrossel-item">
+      <img src="https://brave.com/static-assets/images/brave-cta/brave-private.png" alt="Brave Private">
+    </div>
+  </div>
+  <a class="carrossel-control-prev" role="button">
+    <span class="carrossel-control-prev-icon" aria-hidden="true">&lt;</span>
+  </a>
+  <a class="carrossel-control-next" role="button">
+    <span class="carrossel-control-next-icon" aria-hidden="true">&gt;</span>
+  </a>
+</div>
+
+<script src="carrossel.js"></script>
