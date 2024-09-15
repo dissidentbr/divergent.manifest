@@ -5,3 +5,19 @@ Nesta página, você encontrará uma seleção de ferramentas e tutoriais essenc
 
 ### Brave ([brave.com](https://brave.com/pt-br))
 O Brave é um navegador de internet desenvolvido com foco na privacidade, segurança e alto desempenho. Ele proporciona uma navegação rápida ao proteger os usuários contra rastreamentos e publicidade invasiva, bloqueando automaticamente anúncios e scripts de terceiros. Além disso, o Brave prioriza a privacidade com recursos como a integração com a rede Tor e suporte à Web3, permitindo acesso a conteúdos descentralizados. Em essência, o Brave é um navegador que combina velocidade e segurança, oferecendo uma navegação otimizada e protegida, sem comprometer a liberdade e a privacidade do usuário.
+
+<details>
+  <summary>Título Principal</summary>
+  <p>Este é o conteúdo que aparece quando o item é expandido.</p>
+
+  <details>
+    <summary>Subtítulo 1</summary>
+    <p>Mais detalhes sobre o subtítulo 1.</p>
+  </details>
+
+  <details>
+    <summary>Subtítulo 2</summary>
+    <p>Mais detalhes sobre o subtítulo 2.</p>
+  </details>
+
+</details>
