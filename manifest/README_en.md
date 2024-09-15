@@ -1,5 +1,5 @@
 # divergent.manifest
-![Avillan Jude](../img/avillan_jude.png)
+![Avillan Jude](../img/evil.png)
 
 ## Evil prospers when good men do nothing
 _Manifest - The sad fable of Avillan_

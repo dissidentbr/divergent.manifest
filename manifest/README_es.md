@@ -1,5 +1,5 @@
 # divergent.manifest
-![Avillan Jude](../img/avillan_jude.png)
+![Avillan Jude](../img/evil.png)
 
 ## El mal prospera cuando los hombres buenos no hacen nada
 _Manifiesto - La triste fábula de Avillan_
