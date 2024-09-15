@@ -1,19 +1,8 @@
 # divergent.manifest
-![Divergent.Manifest](divergent.png)
-## [Português](README.md) * [English](README_en.md) * [Español](README_es.md)
-
-## ¿De qué trata este manifiesto?
-Si sientes que la libertad de tu país está en riesgo, o incluso se está convirtiendo en una dictadura, tal vez valga la pena conocer la fábula de Avillan. La fábula de Avillan puede ayudarnos a entender cómo se pierden las libertades individuales y cómo se instauran los regímenes totalitarios.
-
-El __primer objetivo__ de este trabajo es advertir sobre el peligro de las ideologías colectivistas y totalitarias, que es la razón por la cual se escribió el manifiesto.
-
-El __segundo objetivo__ es proporcionar herramientas tecnológicas para garantizar la libertad de expresión. Si vives en un lugar donde la libertad de expresión está amenazada, estas herramientas pueden ayudar a resistir y preservar la libertad. Pero, si ya vives en una dictadura totalitaria, estas herramientas son una cuestión de supervivencia.
-
-_“El precio de la libertad es la vigilancia eterna” - Thomas Jefferson_
+![Avillan Jude](../img/avillan_jude.png)
 
 ## El mal prospera cuando los hombres buenos no hacen nada
 _Manifiesto - La triste fábula de Avillan_
-![Avillan Jude](avillan_jude.png)
 
 El año es 2030, y Avillan ya no es un país libre. La sociedad está completamente controlada por una dictadura totalitaria, que ha transformado profundamente la vida de sus ciudadanos. Durante décadas, una agenda meticulosa fue minando gradualmente las libertades individuales a través de una ideología colectivista. El divisionismo del "nosotros contra ellos" polarizó a la sociedad, debilitando la democracia y destruyendo antiguos valores nacionales. El Poder Judicial, en secreto, forjó una alianza con el Ejecutivo para poner en el poder a un populista corrupto que estaba preso. A través de este títere, una antigua y peligrosa aristocracia acumuló mucho más poder del que debería haber sido posible.
 

@@ -1,19 +1,8 @@
 # divergent.manifest
-![Divergent.Manifest](divergent.png)
-## [Portuguese](README.md) * [English](README_en.md) * [Spanish](README_es.md)
-
-## What is this manifesto about?
-If you feel that your country's freedom is at risk, or even becoming a dictatorship, it might be worth knowing the fable of Avillan. The fable of Avillan can help us understand how individual freedoms are lost and how totalitarian regimes are established.
-
-The __first goal__ of this work is to warn about the danger of collectivist and totalitarian ideologies - the reason why the manifesto was written.
-
-The __second goal__ is to provide technological tools to ensure freedom of speech. If you live in a place where freedom of speech is under threat, these tools can help resist and preserve freedom. However, if you are already living in a totalitarian dictatorship, these tools become a matter of survival.
-
-_“The price of freedom is eternal vigilance” - Thomas Jefferson_
+![Avillan Jude](../img/avillan_jude.png)
 
 ## Evil prospers when good men do nothing
 _Manifesto - The sad fable of Avillan_
-![Avillan Jude](avillan_jude.png)
 
 The year is 2030, and Avillan is no longer a free country. Society is completely controlled by a totalitarian dictatorship that has profoundly transformed the lives of its citizens. For decades, a meticulous agenda gradually eroded individual freedoms through a collectivist ideology. The “us versus them” division polarized society, weakening democracy and destroying old national values. The Judiciary secretly forged an alliance with the Executive to put a corrupt populist, who was imprisoned, in power. Through this puppet, an old and dangerous aristocracy accumulated far more power than should have been possible.
 
