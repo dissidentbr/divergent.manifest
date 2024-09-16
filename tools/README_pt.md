@@ -34,8 +34,8 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
   <summary>Saiba mais...</summary>
 
 #### Por que você precisa de VPN? 
-<center>
-<table border=none width="800px">
+<div align="center">
+<table border=none width="600px">
   <tr>
     <td align="center"><img src="../img/Secure-phone.svg"></td>
     <td align="center"><img src="../img/speaker-loud-voice-news-1.svg"></td>
@@ -50,6 +50,6 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
     Alguns sites utilizam sua localização e cookies para ajustar os preços de seus produtos e serviços. Com uma VPN, você pode evitar essas práticas de marketing e economizar dinheiro ao fazer compras online.</td>
   </tr>  
 </table>
-</center>
+</div>
 
 </details>
