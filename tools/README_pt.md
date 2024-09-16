@@ -36,16 +36,15 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
 #### Por que você precisa de VPN? 
 <table border=none>
   <tr>
-    <td>
-      <img src="../img/Encryption-1.svg">
-    </td>
-    <td>
-      <img src="../img/speaker-loud-voice-news-1.svg">
-    </td>
-    <td>
-      <img src="../img/Secure-phone.svg">
-    </td>
+    <td><img src="../img/Secure-phone.svg"></td>
+    <td><img src="../img/speaker-loud-voice-news-1.svg"></td>
+    <td><img src="../img/Encryption-1.svg"></td>
   </tr>
+  <tr>
+    <td>Ao criptografar o tráfego, a VPN protege contra uma variedade de ataques cibernéticos. É especialmente útil se você usa Wi-Fi público, pois redes públicas representam mais ameaças do que sua rede residencial.</td>
+    <td>Alguns governos censuram fortemente o uso da internet. A VPN pode ajudar você a superar essas restrições, cuidar da sua identidade online e aproveitar o melhor que a internet tem a oferecer.</td>
+    <td>A Surfshark combina a criptografia segura com uma rígida política contra registros de dados para manter você longe de anunciantes, publicidade, ISPs (Provedores de Serviços de Internet) e qualquer outro terceiro que esteja querendo lucrar com seus dados.</td>
+  </tr>  
 </table>
 
 </details>
