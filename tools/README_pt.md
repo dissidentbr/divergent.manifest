@@ -34,7 +34,6 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
   <summary>Saiba mais...</summary>
 
 #### Por que você precisa de VPN? 
-<div align="center">
 <table border=none>
   <tr>
     <td align="center"><img src="../img/Secure-phone.svg"></td>
@@ -42,14 +41,13 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
     <td align="center"><img src="../img/grab-deal-coin-money.svg"></td>
   </tr>
   <tr>
-    <td style="vertical-align: top;" width="200px"><b>Mais Segurança na Rede</b><br><br>
+    <td style="vertical-align: top;" width="250px"><b>Mais Segurança na Rede</b><br><br>
     Ao criptografar o tráfego, a VPN protege contra uma variedade de ataques cibernéticos. É especialmente útil se você usa Wi-Fi público, pois redes públicas representam mais ameaças do que sua rede residencial.</td>
-    <td style="vertical-align: top;" width="200px"><b>Contorne a Censura</b><br><br>
+    <td style="vertical-align: top;" width="250px"><b>Contorne a Censura</b><br><br>
     Alguns governos censuram fortemente o uso da internet. A VPN pode ajudar você a superar essas restrições, cuidar da sua identidade online e aproveitar o melhor que a internet tem a oferecer.</td>
-    <td style="vertical-align: top;" width="200px"><b>Economize Dinheiro</b><br><br>
+    <td style="vertical-align: top;" width="250px"><b>Economize Dinheiro</b><br><br>
     Alguns sites utilizam sua localização e cookies para ajustar os preços de seus produtos e serviços. Com uma VPN, você pode evitar essas práticas de marketing e economizar dinheiro ao fazer compras online.</td>
   </tr>  
 </table>
-</div>
 
 </details>
