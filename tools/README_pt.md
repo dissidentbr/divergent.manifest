@@ -10,7 +10,7 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
   <summary>Saiba mais...</summary>
 
 #### Navegação Anônima com Tor
-<table border="0">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <img src="../img/brave_tor.gif" width="600px">
