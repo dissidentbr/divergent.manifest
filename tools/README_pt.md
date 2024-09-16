@@ -41,11 +41,11 @@ VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), 
     <td><img src="../img/grab-deal-coin-money.svg"></td>
   </tr>
   <tr>
-    <td><b>Mais Segurança na Rede</b><br><br>
+    <td style="vertical-align: top;"><b>Mais Segurança na Rede</b><br><br>
     Ao criptografar o tráfego, a VPN protege contra uma variedade de ataques cibernéticos. É especialmente útil se você usa Wi-Fi público, pois redes públicas representam mais ameaças do que sua rede residencial.</td>
-    <td><b>Contorne a Censura</b><br><br>
+    <td style="vertical-align: top;"><b>Contorne a Censura</b><br><br>
     Alguns governos censuram fortemente o uso da internet. A VPN pode ajudar você a superar essas restrições, cuidar da sua identidade online e aproveitar o melhor que a internet tem a oferecer.</td>
-    <td><b>Economize Dinheiro</b><br><br>
+    <td style="vertical-align: top;"><b>Economize Dinheiro</b><br><br>
     Alguns sites utilizam sua localização e cookies para ajustar os preços de seus produtos e serviços. Com uma VPN, você pode evitar essas práticas de marketing e economizar dinheiro ao fazer compras online.</td>
   </tr>  
 </table>
