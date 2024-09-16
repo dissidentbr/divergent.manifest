@@ -23,3 +23,29 @@ O Brave é um navegador de internet desenvolvido com foco na privacidade, segura
 </table>
 
 </details>
+
+
+## Redes Anônimas
+
+### Surfshark VPN ([surfshark.com](https://surfshark.com/pt-br))
+VPN é a sigla para Rede Privada Virtual (Virtual Private Network, no inglês), é uma ferramenta que criptografa seu tráfego na internet e oculta seu endereço de IP (Protocolo de Internet) para garantir uma conexão segura e privada na internet com a proteção da identidade online do usuário. Isso impede que terceiros espionem ou coletem dados sobre suas atividades na Internet, já que todas as informações ficam ocultas por trás de um código
+
+<details>
+  <summary>Saiba mais...</summary>
+
+#### Por que você precisa de VPN? 
+<table border=none>
+  <tr>
+    <td>
+      <img src="../img/Encryption-1.svg">
+    </td>
+    <td>
+      <img src="../img/speaker-loud-voice-news-1.svg">
+    </td>
+    <td>
+      <img src="../img/Secure-phone.svg">
+    </td>
+  </tr>
+</table>
+
+</details>
